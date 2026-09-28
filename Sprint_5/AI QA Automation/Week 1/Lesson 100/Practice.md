@@ -1,4 +1,4 @@
-# Практичні завдання до Уроку 100: AI у QA Automation
+# Практичні завдання до Уроку 100: Використання ChatGPT, Claude, Cursor та GitHub Copilot у QA Automation
 
 ## Мета практики
 Опанувати генерацію Page Object класів для Playwright за HTML-фрагментом, створення стійких селекторів за ARIA-ролями та налаштування фікстур Pytest за допомогою AI.

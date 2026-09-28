@@ -1,4 +1,4 @@
-# Практичні завдання до Уроку 97: Decision Tables та State Transition
+# Практичні завдання до Уроку 97: Decision Tables та State Transition сценарії
 
 ## Мета практики
 Опанувати побудову та оптимізацію Decision Tables, проєктування State Machine діаграм у Mermaid та генерацію тестів життєвого циклу за допомогою AI.
